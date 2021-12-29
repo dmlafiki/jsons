@@ -1,7 +1,8 @@
 {
   "data": [
-    [
-      {
+    {
+      "page" : 1,
+      "list" : [{
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
@@ -50,10 +51,11 @@
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      }
-    ],
-    [
-      {
+      }]
+    },
+    {
+      "page" : 1,
+      "list" : [{
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
@@ -102,10 +104,11 @@
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      }
-    ],
-    [
-      {
+      }]
+    },
+    {
+      "page" : 1,
+      "list" : [{
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
@@ -154,10 +157,11 @@
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      }
-    ],
-    [
-      {
+      }]
+    },
+    {
+      "page" : 1,
+      "list" : [{
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
@@ -196,96 +200,7 @@
         "title":"Test Title",
         "contents":"Test Contents",
         "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      }
-    ],
-    [
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      }
-    ],
-    [
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      },
-      {
-        "title":"Test Title",
-        "contents":"Test Contents",
-        "image":"https://dummyimage.com/300x200/000000/fff&text=dummyImage"
-      }
-    ]
+      }]
+    }
   ]
 }
